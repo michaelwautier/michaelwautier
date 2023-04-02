@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [shoplocally](https://github.com/michaelwautier/shoplocally)
 
-- 🌱 I’m currently working with **Ruby on Rails, React** @ Recovr
+- 🌱 I’m currently working with **Ruby on Rails** @ Regate
 
 - 📫 How to reach me **wautiermichael@gmail.com**
 
