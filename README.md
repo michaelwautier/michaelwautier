@@ -1,11 +1,8 @@
 <h1>Hi 👋, I'm Michaël</h1>
-<h3>A passionate fullstack developer from Belgium</h3>
 
-- 🔭 I’m currently working on [shoplocally](https://github.com/michaelwautier/shoplocally)
+- 🌱 I’m currently working with **Ruby on Rails** @ Regate by Qonto
 
-- 🌱 I’m currently working with **Ruby on Rails** @ Regate
-
-- 📫 How to reach me **wautiermichael@gmail.com**
+- 📫 How to reach me **michaelwautier@proton.me**
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
