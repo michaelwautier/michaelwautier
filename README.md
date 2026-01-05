@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Michaël</h1>
 
-- 🌱 I’m currently working with **Ruby on Rails** @ Regate by Qonto
+- 🌱 I’m currently working with **Ruby on Rails** @ Smovin
 
 - 📫 How to reach me **michaelwautier@proton.me**
 
