@@ -1,16 +1,15 @@
-<h1>Hi 👋, I'm Michaël</h1>
+# Hi 👋, I'm Michaël
 
-- 🌱 I’m currently working with **Ruby on Rails** @ Smovin
+### 🏡 I’m currently working with **Ruby on Rails / VueJS** @ Smovin
 
-- 📫 How to reach me **michaelwautier@proton.me**
 
-<h3 align="left">Languages:</h3>
+### Languages:
 <p align="left">
   <a style="text-decoration: none;" href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> </a>
   <a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/> </a>
 </p>
 
-<h3 align="left">Frontend Development:</h3>
+### Frontend Development:
 <p align="left">
   <a style="text-decoration: none;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
   <a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="css3"/> </a>
@@ -19,7 +18,7 @@
   <a style="text-decoration: none;" href="https://jekyllrb.com/" target="_blank"> <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" alt="jekyll"/> </a>
 </p>
   
-<h3 align="left">Frameworks:</h3>
+### Frameworks:
 <p align="left">
   <a style="text-decoration: none;" href="https://rubyonrails.org" target="_blank"> <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="ruby-on-rails"/> </a>
   <a style="text-decoration: none;" href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react"/> </a>
@@ -28,14 +27,14 @@
   <a style="text-decoration: none;" href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/> </a>  </p>
 </p>
 
-<h3 align="left">Database:</h3>
+### Database:
 <p align="left">
-  <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
   <a style="text-decoration: none;" href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
+  <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
   <a style="text-decoration: none;" href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="sqlite"/> </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+### Tools:
 <p align="left">
   <a style="text-decoration: none;" href="https://www.datadoghq.com/" target="_blank"> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="datadog"/> </a>
   <a style="text-decoration: none;" href="https://grafana.com/" target="_blank"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/> </a>
@@ -53,7 +52,8 @@
   <a style="text-decoration: none;" href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.shields.io/badge/Adobe_Photoshop-003B57?style=for-the-badge" alt="photoshop"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
+  <a style="text-decoration: none;" href="mailto:michaelwautier@proton.me" target="blank"><img align="center" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="michaelwautier" /></a>
   <a style="text-decoration: none;" href="https://linkedin.com/in/michaelwautier" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="michaelwautier" /></a>
 </p>
